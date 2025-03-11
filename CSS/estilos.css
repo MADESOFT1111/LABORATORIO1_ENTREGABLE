@@ -1,0 +1,27 @@
+h1 {
+    color:green; font-size:24px;
+}
+h2{
+color:red; font-size:16px;
+} 
+h3{
+    color:rgb(67, 3, 25); font-size:14px;
+    } 
+ p{ 
+color:blue; font-size:12px;font-family:Georgia, 'Times New Roman', Times, serif;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: black;
+    color: white;
+  }
